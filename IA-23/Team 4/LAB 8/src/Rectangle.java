@@ -43,3 +43,4 @@ public class Rectangle extends Figure {
         setSecondSide(getSecondSide()*j);
     }
 }
+
